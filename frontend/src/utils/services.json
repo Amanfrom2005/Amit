@@ -7,12 +7,12 @@
     "originalPrice": 399,
     "rating": 4.8,
     "reviews": 124,
-    "image": "../src/image/webdev.webp",
+    "image": "/webdev.webp",
     "images": [
-      "../src/image/webdev1.png",
-      "../src/image/webdev2.png",
-      "../src/image/webdev3.png",
-      "../src/image/webdev4.png"
+      "/webdev1.png",
+      "/webdev2.png",
+      "/webdev3.png",
+      "/webdev4.png"
     ],
     "description": "Professional web development services using modern technologies like React, Next.js, and Node.js.",
     "features": [
@@ -32,12 +32,12 @@
     "originalPrice": 249,
     "rating": 4.9,
     "reviews": 89,
-    "image": "../src/image/3Dmodeling.webp",
+    "image": "/3Dmodeling.webp",
     "images": [
-      "../src/image/3Dmodeling1.png",
-      "../src/image/3Dmodeling2.png",
-      "../src/image/3Dmodeling3.png",
-      "../src/image/3Dmodeling4.png"
+      "/3Dmodeling1.png",
+      "/3Dmodeling2.png",
+      "/3Dmodeling3.png",
+      "/3Dmodeling4.png"
     ],
     "description": "High-quality 3D modeling services for games, architecture, and product visualization.",
     "features": [
@@ -57,12 +57,12 @@
     "originalPrice": 499,
     "rating": 4.7,
     "reviews": 67,
-    "image": "../src/image/3Danimation.webp",
+    "image": "/3Danimation.webp",
     "images": [
-      "../src/image/3Danimation1.png",
-      "../src/image/3Danimation2.png",
-      "../src/image/3Danimation3.png",
-      "../src/image/3Danimation4.png"
+      "/3Danimation1.png",
+      "/3Danimation2.png",
+      "/3Danimation3.png",
+      "/3Danimation4.png"
     ],
     "description": "Professional 3D animation services for characters, objects, and architectural walkthroughs.",
     "features": [
@@ -82,12 +82,12 @@
     "originalPrice": 299,
     "rating": 4.6,
     "reviews": 156,
-    "image": "../src/image/2Danimation.webp",
+    "image": "/2Danimation.webp",
     "images": [
-      "../src/image/2Danimation1.png",
-      "../src/image/2Danimation2.png",
-      "../src/image/2Danimation3.png",
-      "../src/image/2Danimation4.png"
+      "/2Danimation1.png",
+      "/2Danimation2.png",
+      "/2Danimation3.png",
+      "/2Danimation4.png"
     ],
     "description": "Creative 2D animation services for explainer videos, commercials, and educational content.",
     "features": [
@@ -107,12 +107,12 @@
     "originalPrice": 799,
     "rating": 4.9,
     "reviews": 43,
-    "image": "../src/image/gamedev.webp",
+    "image": "/gamedev.webp",
     "images": [
-      "../src/image/gamedev1.png",
-      "../src/image/gamedev2.png",
-      "../src/image/gamedev3.png",
-      "../src/image/gamedev4.png"
+      "/gamedev1.png",
+      "/gamedev2.png",
+      "/gamedev3.png",
+      "/gamedev4.png"
     ],
     "description": "Complete game development services from concept to deployment across multiple platforms.",
     "features": [
@@ -132,12 +132,12 @@
     "originalPrice": 599,
     "rating": 4.8,
     "reviews": 98,
-    "image": "../src/image/appdev.png",
+    "image": "/appdev.png",
     "images": [
-      "../src/image/appdev1.png",
-      "../src/image/appdev2.png",
-      "../src/image/appdev3.png",
-      "../src/image/appdev4.png"
+      "/appdev1.png",
+      "/appdev2.png",
+      "/appdev3.png",
+      "/appdev4.png"
     ],
     "description": "Professional mobile app development for iOS and Android platforms.",
     "features": [
@@ -157,12 +157,12 @@
     "originalPrice": 249,
     "rating": 4.9,
     "reviews": 187,
-    "image": "../src/image/uiux.png",
+    "image": "/uiux.png",
     "images": [
-      "../src/image/uiux1.png",
-      "../src/image/uiux2.png",
-      "../src/image/uiux3.png",
-      "../src/image/uiux4.png"
+      "/uiux1.png",
+      "/uiux2.png",
+      "/uiux3.png",
+      "/uiux4.png"
     ],
     "description": "Professional UI/UX design for web and mobile applications with user-centered approach.",
     "features": [
@@ -182,12 +182,12 @@
     "originalPrice": 199,
     "rating": 4.7,
     "reviews": 203,
-    "image": "../src/image/video.png",
+    "image": "/video.png",
     "images": [
-      "../src/image/video1.png",
-      "../src/image/video2.png",
-      "../src/image/video3.png",
-      "../src/image/video4.png"
+      "/video1.png",
+      "/video2.png",
+      "/video3.png",
+      "/video4.png"
     ],
     "description": "Professional video editing with engaging cuts, transitions, and effects for all platforms.",
     "features": [
@@ -207,12 +207,12 @@
     "originalPrice": 99,
     "rating": 4.8,
     "reviews": 298,
-    "image": "../src/image/photoshop.webp",
+    "image": "/photoshop.webp",
     "images": [
-      "../src/image/photoshop1.png",
-      "../src/image/photoshop3.png",
-      "../src/image/photoshop4.png",
-      "../src/image/photoshop5.png"
+      "/photoshop1.png",
+      "/photoshop3.png",
+      "/photoshop4.png",
+      "/photoshop5.png"
     ],
     "description": "Professional photo retouching and enhancement using advanced Photoshop techniques.",
     "features": [
@@ -232,12 +232,12 @@
     "originalPrice": 159,
     "rating": 4.8,
     "reviews": 87,
-    "image": "../src/image/ai.png",
+    "image": "/ai.png",
     "images": [
-      "../src/image/ai1.png",
-      "../src/image/ai2.png",
-      "../src/image/ai3.png",
-      "../src/image/ai4.png"
+      "/ai1.png",
+      "/ai2.png",
+      "/ai3.png",
+      "/ai4.png"
     ],
     "description": "Expert AI prompt engineering for ChatGPT, Midjourney, and other AI tools.",
     "features": [
@@ -257,12 +257,12 @@
     "originalPrice": 199,
     "rating": 4.9,
     "reviews": 92,
-    "image": "../src/image/illustration.webp",
+    "image": "/illustration.webp",
     "images": [
-      "../src/image/illustration1.png",
-      "../src/image/illustration2.png",
-      "../src/image/illustration3.png",
-      "../src/image/illustration4.png"
+      "/illustration1.png",
+      "/illustration2.png",
+      "/illustration3.png",
+      "/illustration4.png"
     ],
     "description": "Dynamic illustrations with action-packed scenes and heroic characters.",
     "features": [
@@ -282,12 +282,12 @@
     "originalPrice": 149,
     "rating": 4.8,
     "reviews": 234,
-    "image": "../src/image/logodesign.webp",
+    "image": "/logodesign.webp",
     "images": [
-      "../src/image/logodesign1.png",
-      "../src/image/logodesign2.png",
-      "../src/image/logodesign3.png",
-      "../src/image/logodesign4.png"
+      "/logodesign1.png",
+      "/logodesign2.png",
+      "/logodesign3.png",
+      "/logodesign4.png"
     ],
     "description": "Contemporary logo design with clean, modern aesthetics for strong brand identity.",
     "features": [

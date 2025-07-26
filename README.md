@@ -1,6 +1,6 @@
 <!-- Add a project banner or logo below -->
 <p align="center">
-  <img src="./frontend/src/image/readme.png" alt="Project Banner" width="full"/>
+  <img src="./frontend/public/readme.png" alt="Project Banner" width="full"/>
 </p>
 
 # ✨ AMIT Full Stack Web App

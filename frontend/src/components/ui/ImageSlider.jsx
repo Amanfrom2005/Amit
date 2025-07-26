@@ -3,42 +3,42 @@ import { motion, AnimatePresence } from "framer-motion";
 
 const slides = [
   {
-    img: "./src/image/2Danimation.webp",
+    img: "/2Danimation.webp",
     title: "2D animation",
     desc: "Creative 2D animation services for explainer videos, commercials, and educational content. "
   },
   {
-    img: "./src/image/3Danimation.webp",
+    img: "/3Danimation.webp",
     title: "3D animation",
     desc: "Professional 3D animation services for characters, objects, and architectural walkthroughs. Create stunning animations that bring your ideas to life with high-quality rendering and attention to detail."
   },
   {
-    img: "./src/image/3Dmodeling.webp",
+    img: "/3Dmodeling.webp",
     title: "3D modeling",
     desc: "High-quality 3D modeling services for games, architecture, and product visualization. Create realistic and detailed 3D models using industry-standard software."
   },
   {
-    img: "./src/image/gamedev.webp",
+    img: "/gamedev.webp",
     title: "Game dev",
     desc: "Complete game development services from concept to deployment across multiple platforms. "
   },
   {
-    img: "./src/image/illustration.webp",
+    img: "/illustration.webp",
     title: "Illustration",
     desc: "Professional comic book illustration services with dynamic storytelling visuals. Create captivating comic book illustrations that bring your characters and stories to life with vibrant colors and intricate details."
   },
   {
-    img: "./src/image/logodesign.webp",
+    img: "/logodesign.webp",
     title: "Logo design",
     desc: "Professional logo design services for businesses and personal brands. Create unique and memorable logos that represent your brand identity and values, ensuring a strong visual impact."
   },
   {
-    img: "./src/image/photoshop.webp",
+    img: "/photoshop.webp",
     title: "Photoshop",
     desc: "Professional photo editing and manipulation services using Adobe Photoshop. Enhance your images with expert retouching, color correction, and creative effects to achieve stunning visual results."
   },
   {
-    img: "./src/image/webdev.webp",
+    img: "/webdev.webp",
     title: "Web dev",
     desc: "Professional web development services using modern technologies like React, Next.js, and Node.js. Build responsive, high-performance websites tailored to your needs."
   },
